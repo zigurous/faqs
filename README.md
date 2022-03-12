@@ -6,4 +6,4 @@ Welcome to the Zigurous FAQs hub. This repo contains answers to frequently asked
 
 - Visit the [wiki](https://github.com/zigurous/faqs/wiki) for answers to the FAQs
 - Open an [issue](https://github.com/zigurous/faqs/issues/new) to ask a new question
-- Watch tutorials on our [YouTube channel](https://youtube.com/c/zigurous?sub_confirmation=1)
+- Watch tutorials on our [YouTube](https://youtube.com/c/zigurous?sub_confirmation=1) channel
